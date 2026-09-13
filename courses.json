@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "REST API 基础",
+    "description": "学习 HTTP、资源、路由和 REST API 设计。",
+    "target_date": "2026-10-30",
+    "status": "未开始"
+  },
+  {
+    "id": 3,
+    "name": "数据结构与算法",
+    "description": "练习 LeetCode 数组与哈希表",
+    "target_date": "2026-10-15",
+    "status": "进行中"
+  },
+  {
+    "id": 4,
+    "name": "haha",
+    "description": "CPEG",
+    "target_date": "2026-08-19",
+    "status": "已完成"
+  }
+]
