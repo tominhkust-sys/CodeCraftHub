@@ -1,5 +1,5 @@
 // ===== Configuration =====
-const API_URL = 'http://127.0.0.1:5000/api/courses'
+const API_URL = 'https://Tominhkust.pythonanywhere.com/api/courses'
 
 const STATUS_MAP = {
   '未开始': { label: '未开始', class: 'badge-not-started' },
